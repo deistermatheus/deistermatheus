@@ -30,9 +30,7 @@ Free time is usually spent cooking, reading, climbing, finding new tech to play 
 <img alt="Golang" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/gopher.svg">
 <img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/typescript-icon.svg">
 <br>
-<u><h2>Reach Me</h2></u>
 
-<img href="mailto:deistermatheus@gmail.com" align="center" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/google-gmail.svg">
 </div>
 
 <u> <h4> Footnote </u> </h4>
