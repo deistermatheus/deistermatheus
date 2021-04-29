@@ -24,12 +24,6 @@ Free time is usually spent cooking, reading, climbing, finding new tech to play 
 <br>
 <u> <h2> Most Wanted for 2021</h2> </u>
 <br>
-<img alt="Amazon Web Services" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/aws.svg">
-<img alt="PostgreSQL"height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/postgresql.svg">
-<img alt="Apache Kafka" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/kafka.svg">
-<img alt="Golang" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/gopher.svg">
-<img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/typescript-icon.svg">
-<br>
 
 </div>
 
