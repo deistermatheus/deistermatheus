@@ -22,7 +22,6 @@ Free time is usually spent cooking, reading, climbing, finding new tech to play 
 
 <br>
 <br>
-<u> <h2> Most Wanted for 2021</h2> </u>
 <br>
 
 </div>
