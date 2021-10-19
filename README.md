@@ -3,7 +3,7 @@
 <h2> Matheus Deister </h3>
 
 <p align="justify">Hi, I'm a Backend Engineer with some background in Frontend and Data Analysis. Currently working on simplifying brand-customer interactions through a messaging
-  and chatbot platform at <a href="https://www.mundiale.com.br/"> Mundiale </a>. Interested in distributed systems and microservices architectures.</p>
+  and chatbot platform at <a href="https://www.mundiale.com.br/">Mundiale</a>. Interested in distributed systems and microservices architectures.</p>
 
 <u><h2 align="center"> Current Stack and Toolset</h2> </u>
 <br>
@@ -21,7 +21,9 @@
 <br>
 <br>
 <br>
-
+  
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deistermatheus)](https://github.com/anuraghazra/github-readme-stats)
 
 
