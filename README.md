@@ -2,12 +2,8 @@
 <!--Would like to apologize to my IDE, but note that github markdown does not support styles, html will have to make do-->
 <h2> Matheus Deister </h3>
 
-<p align="justify">Full stack software engineer based in Belo Horizonte, Brazil. Currently working on advancing the mining industry to the 21<sup>st</sup> century by building a digital ecosystem for geotechnical engineering along awesome development and product teams at <a href="https://github.com/geolaborapp"> <strong>Geolabor</strong></p>
-<p align="justify"> </a> Mostly self taught, transitioned from a data analyst role to full time programming mid 2020. Would like his future self to look at this page in 2030 and see a summary of meaningful contributions to open source software and resources for teaching other developers. 
-
-<p align="justify">
-Free time is usually spent cooking, reading, climbing, finding new tech to play around with, console gaming and figuring out how to be a stepdad. Other trivia: He/Him, Bachelor of Chemical Engineering with a minor<sup>1</sup> in System Simulation and Optimization</p>
-</div>
+<p align="justify">Hi, I'm a Backend Engineer with some background in Frontend and Data Analysis. Currently working on simplifying brand-customer interactions through a messaging
+  and chatbot platform at <a href="https://www.mundiale.com.br/"> Mundiale </a>. Interested in distributed systems and microservices architecture </p>
 
 <u><h2 align="center"> Current Stack and Toolset</h2> </u>
 <br>
@@ -26,5 +22,4 @@ Free time is usually spent cooking, reading, climbing, finding new tech to play 
 
 </div>
 
-<u> <h4> Footnote </u> </h4>
-<p align="justify"> 1. It turns out that, for most of the fun topics, such as simulating fluid motion, studying systems with multiple points of failure and optimizing production processes, a ton of math and coding was required, so I took a combination of graduate and undergraduate electives that had me solving problems with a computer. This is roughly equivalent to a minor at higher education institutions elsewhere, but does not technically exist in Brazil. Really hard to fit such an explanation in a resume bullet point, though. </p>
+
