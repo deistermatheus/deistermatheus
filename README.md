@@ -1,29 +1,12 @@
-<div align="center">
-<!--Would like to apologize to my IDE, but note that github markdown does not support styles, html will have to make do-->
-<h2> Matheus Deister </h3>
+                                    
+<p align="center">
+    :see_no_evil: :hear_no_evil: :speak_no_evil:
+</p>
 
-<p align="justify">Hi, I'm a Backend Engineer with some background in Frontend and Data Analysis. Currently working on simplifying brand-customer interactions through a messaging
-  and chatbot platform at <a href="https://www.mundiale.com.br/">Mundiale</a>. Interested in distributed systems and microservices architectures.</p>
-
-<u><h2 align="center"> Current Stack and Toolset</h2> </u>
-<br>
-<!--FIXME: update fork of stack icons with better mongodb svgs-->
-<div align="center">
-<img alt="MongoDb" height="35" width="35" src="https://www.flamingoajans.com/assets/vendors/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-<img alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/nodejs-icon.svg">
-<img alt="Linux" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/terminal.svg">
-<img alt="Docker" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/docker-icon.svg">
-<img alt="RabbitMQ" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/rabbitmq.svg">
-<img alt="Kafka" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/kafka-icon.svg">
-<img alt="React" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/react.svg">
-<img alt="Redux" height="35" width="35" src="https://raw.githubusercontent.com/deistermatheus/stack-icons/master/logos/redux.svg">
+  Hi, I'm Matheus. I have about three years experience as a professional backend developer in the node.js ecosystem[^1]. Currently, there's not much to see around here, since almost all code I've written with professional standards is commited to private repositories[^2].
   
-<br>
-<br>
-<br>
   
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deistermatheus)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  [^1]: More specifically, I'm currently writing microservices for a  high throughput distributed messaging platform responsible for processing automated customer-brand interaction. I use Node.js along MongoDB, RabbitMQ, Kafka and Redis (and also many 3rd party APIs) to make this happen :).
+  [^2]: Policy subject to change without further notice. Some projects may be publicized to show interest in a different stack, or because they may contain code that is useful to someone else.
 
