@@ -8,11 +8,7 @@
   [^1]: More specifically, I'm currently writing microservices for a  high throughput distributed messaging platform responsible for processing automated customer-brand interaction. I use Node.js along MongoDB, RabbitMQ, Kafka and Redis (and also many 3rd party APIs) to make this happen.
   [^2]: Policy subject to change without further notice. Some projects may be publicized to show interest in a different stack, or because they may contain code that is useful to someone else.
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deistermatheus" />
-</div>
-<br>
+
 
  
 
