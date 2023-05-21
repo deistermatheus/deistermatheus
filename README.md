@@ -3,7 +3,7 @@
     :see_no_evil: :hear_no_evil: :speak_no_evil:
 </p>
 
-  Hi, I'm Matheus. I have about three years experience as a professional backend developer in the node.js ecosystem[^1]. Currently, there's not much to see around here, since almost all code I've written with professional standards is commited to private repositories[^2].
+  Hi, I'm Matheus. I have about three years experience as a professional backend developer in the node.js ecosystem[^1]. Currently, there's not much to see around here, since almost all code I've written with professional standards is commited to private repositories[^2]. My LinkedIn profile is [here](https://www.linkedin.com/in/matheus-deister/) if you would like to know more about my work experience, skills and tools :).
   
   
   
