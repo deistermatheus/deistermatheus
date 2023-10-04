@@ -3,7 +3,8 @@
     :see_no_evil: :hear_no_evil: :speak_no_evil:
 </p>
 
-Hi, I'm Matheus. I have about three years experience as a professional developer in the node.js ecosystem[^1]. I have been a backend developer for the last two years, with previous experience on the frontend and data infrastructure as well. 
+Hi, I'm Matheus. I have about three years experience as a professional developer in the node.js ecosystem[^1]. I have been a backend developer for the last two years, with previous experience on the frontend and data infrastructure as well. I'm 
+also currently working in deploying Machine Learning models to production and integrating their inference endpoints with other systems.
 
 As a disclaimer for recruiters, most code I've written with professional standards is commited to private repositories[^2]. As far as GitHub goes as a social network, this profile contains mostly proof of concept apps, forks of interesting / upcoming technologies and study repositories. My LinkedIn profile is [here](https://www.linkedin.com/in/matheus-deister/) if you would like to know more about my work experience, skills and tools :).
 
